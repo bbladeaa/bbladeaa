@@ -1,0 +1,6 @@
+import sys
+slogan=“are you lean python today?”
+size=sys.getsizeof(slogan)
+print(size)
+#output:
+#100
